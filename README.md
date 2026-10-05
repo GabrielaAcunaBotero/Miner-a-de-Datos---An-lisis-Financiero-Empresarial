@@ -1,0 +1,2 @@
+# Miner-a-de-Datos---An-lisis-Financiero-Empresarial
+Proyecto de Data Mining aplicado al análisis financiero de una empresa, donde se integran los conocimientos adquiridos en la Ruta Formativa – Data Mining con IA: Análisis de Valor Empresarial de la universidad EAN. Se exploran, transforman y analizan datos para identificar patrones, tendencias y generar información útil para la toma de decisiones.
